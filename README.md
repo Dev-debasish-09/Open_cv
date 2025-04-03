@@ -6,7 +6,7 @@ This project demonstrates how to use YOLO (You Only Look Once) for object detect
 - Detect objects in images, videos, and real-time webcam streams
 - Save processed images with a custom filename and path
 - Save detected objects in videos automatically
-- Compatible with **YOLOv8** models
+- Compatible with **YOLOv11** models
 
 ## 📦 Installation
 First, install the required dependencies:
